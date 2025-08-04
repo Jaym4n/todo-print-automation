@@ -1,5 +1,7 @@
 # Todoist Print Automation for Receipt Printers
 
+- Forked from /ChristianMay21 - intending to use for personal use only. I will likely add a personalized readme at some point to cover some tweaks that I want done.
+
 This repository contains some scripts that allow you to pull tasks from Todoist and print them out on a receipt printer.
 
 The code is configured to pull tasks that are due today or overdue, and print them out grouped by due time. The code in charge of this is fairly simple, and should be somewhat straightforward to customize for your preferences.
